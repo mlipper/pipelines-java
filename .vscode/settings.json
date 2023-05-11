@@ -1,0 +1,9 @@
+{
+    "maven.view": "hierarchical",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-11",
+            "path": "/usr/local/opt/openjdk@11"
+        }
+    ]
+}
