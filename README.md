@@ -1,3 +1,4 @@
+[![Build Status](https://clt-40ea1dd4-1b0b-4f09-89ee-422fdfbba51d.visualstudio.com/NextGen%20GIS/_apis/build/status%2Fmlipper.pipelines-java?branchName=main)](https://clt-40ea1dd4-1b0b-4f09-89ee-422fdfbba51d.visualstudio.com/NextGen%20GIS/_build/latest?definitionId=1374&branchName=main)
 
 # Contributing
 
